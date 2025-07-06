@@ -8,7 +8,7 @@ cmd(
     filename: __filename,
   },
   async (
-    danuwa,
+    daham,
     mek,
     m,
     {
